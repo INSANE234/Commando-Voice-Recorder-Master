@@ -1,0 +1,22 @@
+{
+  "name": "commando-voice-recorder-v12",
+  "version": "1.0.0",
+  "description": "Discord.js-Commando voice recording example",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "discord.js",
+    "voice",
+    "recording",
+    "v12"
+  ],
+  "author": "Lolligerjoj",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "github:hydrabolt/discord.js#master",
+    "discord.js-commando": "github:Gawdl3y/discord.js-commando#master",
+    "node-opus": "^0.2.7"
+  }
+}
